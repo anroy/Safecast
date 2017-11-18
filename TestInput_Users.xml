@@ -1,0 +1,20 @@
+<NPCQL version="1.0" strategy="1" requestType="Results" start="0" returnCount="20" clientID="TestClient" clientType="WEB" clientVersion="3.14.160.4">
+    <CurrentCriteria>
+        <Criteria name="MerchantType" searchMode="Standard" genres="Radiation_MerchantType" valueType="STRING" format="SINGLE" relation="OR">Radiation</Criteria>
+        <Criteria name="InfoType" searchMode="Standard" valueType="STRING" format="SINGLE" relation="OR">Users</Criteria>
+        <Criteria name="Date" searchMode="Standard" valueType="DATE" format="SINGLE" relation="OR">2014/12/01</Criteria>
+        <Criteria name="Period" searchMode="Standard" valueType="STRING" format="SINGLE" relation="OR">1</Criteria>
+        <Criteria name="Prefecture" searchMode="Standard" valueType="STRING" format="SINGLE" relation="OR">JP-13</Criteria>
+        <Criteria name="Station" searchMode="Standard" valueType="STRING" format="SINGLE" relation="OR">’r‘Ü‰w</Criteria>
+        <Criteria name="Location" searchMode="Standard" valueType="GPS" format="SINGLE" relation="OR">35.728926:139.71038</Criteria>
+        <Criteria name="NewDate" searchMode="Standard" valueType="DATE" format="SINGLE" relation="OR">2014/12/01</Criteria>
+    </CurrentCriteria>
+    <States>
+        <State type="Client" name="GPS">35.656420:139.735123</State>
+        <State type="User" name="Email"></State>
+        <State type="User" name="Name"></State>
+        <State type="User" name="NamePronounce"></State>
+    </States>
+    <ReturnList>ALL</ReturnList>
+    <Exclude></Exclude>
+</NPCQL>

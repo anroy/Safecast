@@ -1,0 +1,16 @@
+<NPCQL version="1.0" responseType="Results" returnCode="200">
+    <Results start="0" resultCount="25" totalCount="25" queryCount="25">
+        <Result uid="334" index="0">
+            <ContentProvider valueType="STRING" format="SINGLE">Safecast</ContentProvider>
+            <InfoType valueType="STRING" format="SINGLE">Users</InfoType>
+            <Name valueType="STRING" format="SINGLE">lord_yo</Name>
+            <MeasurementsCount valueType="INTEGER" format="SINGLE">2</MeasurementsCount>
+        </Result>
+        <Result uid="335" index="1">
+            <ContentProvider valueType="STRING" format="SINGLE">Safecast</ContentProvider>
+            <InfoType valueType="STRING" format="SINGLE">Users</InfoType>
+            <Name valueType="STRING" format="SINGLE">Roger Ross</Name>
+            <MeasurementsCount valueType="INTEGER" format="SINGLE">4</MeasurementsCount>
+        </Result>
+    </Results>
+</NPCQL>

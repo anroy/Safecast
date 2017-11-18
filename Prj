@@ -1,0 +1,14 @@
+<NotepadPlus>
+    <Project name="Safecast">
+        <File name="Safecast.asp" />
+        <File name="js\DataDefs.js" />
+        <File name="js\Safecast.js" />
+        <File name="js\Util.js" />
+        <File name="TestPage.html" />
+        <File name="TestInput_Measurements.xml" />
+        <File name="TestInput_TotalCount.xml" />
+        <File name="TestInput_Users.xml" />
+        <File name="TestResult_TotalCount.xml" />
+        <File name="TestResult_Users.xml" />
+    </Project>
+</NotepadPlus>

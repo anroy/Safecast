@@ -1,0 +1,9 @@
+<NPCQL version="1.0" responseType="Results" returnCode="200">
+    <Results start="0" resultCount="1" totalCount="1" queryCount="1">
+        <Result uid="0" index="0">
+            <ContentProvider valueType="STRING" format="SINGLE">Safecast</ContentProvider>
+            <InfoType valueType="STRING" format="SINGLE">TotalCount</InfoType>
+            <MeasurementsCount valueType="INTEGER" format="SINGLE">1000000</MeasurementsCount>
+        </Result>
+    </Results>
+</NPCQL>
